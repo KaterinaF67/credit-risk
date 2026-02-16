@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.parquet
+*.pkl
+*.joblib
+data/
+model_artifacts/
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+
+# Envs
+.venv/
+env/
+venv/
