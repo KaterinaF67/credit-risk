@@ -30,6 +30,5 @@ StandardScaler
 Logistic Regression
 5. Оценка качества
 основная метрика: ROC-AUC
-📈 Результаты
-
+Результаты
 Модель Logistic Regression показала базовое качество, достаточное для baseline решения задачи кредитного скоринга.
